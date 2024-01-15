@@ -2,4 +2,40 @@
     margin: 0;
     padding: 0;
 } 
-
+.nav_bar {
+    display: flex;
+    justify-content: space-between;
+    font-family: tahoma;
+}
+.nav_bar div {
+    height: 2cm;
+    line-height: 2cm;
+    margin: 0px 18px;
+}
+.list ul {
+    display: flex;
+    gap: 0.5cm;
+}
+.list li {
+    list-style: none;
+}
+.list a {
+    text-decoration: none;
+    color: black;
+    font-size: 11px;
+}
+.placeholder input {
+    height: 1cm;
+    width: 9cm;
+}
+.body {
+    display: flex;
+    gap: 1cm;
+    
+}
+.body p {
+    border: 1px solid black;
+}
+.multichain {
+    
+}
