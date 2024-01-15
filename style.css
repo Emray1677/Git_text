@@ -2,11 +2,15 @@
     margin: 0;
     padding: 0;
 } 
+body {
+    background-color: rgb(26, 24, 24);
+    color: white;
+}
 .nav_bar {
     display: flex;
     justify-content: space-between;
     font-family: tahoma;
-    background-color: aqua;
+    background-color:rgb(115, 115, 123);
     
 }
 .nav_bar div {
@@ -23,7 +27,7 @@
 }
 .list a {
     text-decoration: none;
-    color: black;
+    color: white;
     font-size: 11px;
 }
 .list a:hover {
@@ -42,12 +46,17 @@
 .div_class {
     display: flex;
      justify-content: space-between;
-     margin: 0.7cm;
+     margin: 0.5cm;
 }
 .div_class1 {
-    height: 8cm;
-    width: 15cm;
+    height: 4cm;
+    width: 13.5cm;
     border-radius: 0.4cm;
-    background-color: rgb(222, 20, 20);
-
+    background-color: rgb(80, 80, 229);
+    padding: 0.7cm 0.6cm;
+    font-family: tahoma;
+    font-size: 0.6cm;
+}
+.div_class1 p {
+    
 }
