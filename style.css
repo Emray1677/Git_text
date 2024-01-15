@@ -2,22 +2,4 @@
     margin: 0;
     padding: 0;
 } 
-.nav_bar {
-    font-family: tahoma;
-    font-size: 0.3cm;
-    font-weight: 600;
-    height: 2cm;
-    line-height: 1cm;
-}
-.nav_bar ul {
- display: flex;
- justify-content: space-between;
- align-items: center;
-}
-.nav_bar li {
-    list-style: none;
-}
-.nav_bar a {
-    color: black;
-    text-decoration: none;
-}
+
