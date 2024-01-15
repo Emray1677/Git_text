@@ -6,6 +6,8 @@
     display: flex;
     justify-content: space-between;
     font-family: tahoma;
+    background-color: aqua;
+    
 }
 .nav_bar div {
     height: 2cm;
@@ -24,21 +26,16 @@
     color: black;
     font-size: 11px;
 }
+.list a:hover {
+    text-decoration: underline;
+}
 .placeholder input {
     height: 1cm;
     width: 9cm;
+    border-radius: 0.3cm;
+    padding: 0px 15px;
+    margin-left: 1.6cm;
 }
-.body {
-    display: flex;
-    gap: 1cm;
-    
-}
-.multichain1 {
-    border: 1px solid black;
-    border-radius: 0.4cm;
-}
-.multichain1 p {
- width: 8cm;
- height: 3cm;
- padding: 12px 10px;
+.placeholder placeholder{
+    padding: 0.2cm;
 }
