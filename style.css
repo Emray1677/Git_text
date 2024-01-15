@@ -33,11 +33,12 @@
     gap: 1cm;
     
 }
-.body p {
+.multichain1 {
     border: 1px solid black;
+    border-radius: 0.4cm;
 }
-.multichain p {
+.multichain1 p {
  width: 8cm;
  height: 3cm;
- padding-top: 12px;
+ padding: 12px 10px;
 }
