@@ -39,3 +39,15 @@
 .placeholder placeholder{
     padding: 0.2cm;
 }
+.div_class {
+    display: flex;
+     justify-content: space-between;
+     margin: 0.7cm;
+}
+.div_class1 {
+    height: 8cm;
+    width: 15cm;
+    border-radius: 0.4cm;
+    background-color: rgb(222, 20, 20);
+
+}
