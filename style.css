@@ -36,6 +36,8 @@
 .body p {
     border: 1px solid black;
 }
-.multichain {
-    
+.multichain p {
+ width: 8cm;
+ height: 3cm;
+ padding-top: 12px;
 }
