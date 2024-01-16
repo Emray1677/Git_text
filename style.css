@@ -65,3 +65,10 @@ body {
     font-size: 0.6cm;
     margin: 0cm 0.2cm;
 }
+.div_class3 {
+    display: flex;
+     justify-content: space-between;
+     margin: 0.5cm;
+     font-family: tahoma;
+     margin: 1cm;
+     }
