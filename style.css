@@ -57,6 +57,11 @@ body {
     font-family: tahoma;
     font-size: 0.6cm;
 }
-.div_class1 p {
-    
+.div_class2 {
+    border-radius: 0.4cm;
+    background-color: rgb(80, 80, 229);
+    padding: 0.7cm 0.6cm;
+    font-family: tahoma;
+    font-size: 0.6cm;
+    margin: 0cm 0.2cm;
 }
